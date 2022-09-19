@@ -69,7 +69,8 @@
         { "size": "Lớn", "price": "10.000 VNĐ" },
         { "size": "Vừa", "price": "6.000 VNĐ" },
         { "size": "Nhỏ", "price": "0 VNĐ" }
-      ]
+      ],
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
     {
       "id": 2,
@@ -87,7 +88,8 @@
         { "size": "Lớn", "price": "10.000 VNĐ" },
         { "size": "Vừa", "price": "6.000 VNĐ" },
         { "size": "Nhỏ", "price": "0 VNĐ" }
-      ]
+      ],
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
 
     {
@@ -105,7 +107,8 @@
       "size-list": [
         { "size": "Lớn", "price": "10.000 VNĐ" },
         { "size": "Vừa", "price": "6.000 VNĐ" }
-      ]
+      ],
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
     {
       "id": 4,
@@ -119,7 +122,8 @@
       ],
       "price": "45.000 VNĐ",
       "category": "Western Coffee",
-      "size-list": [{ "size": "Vừa", "price": "6.000 VNĐ" }]
+      "size-list": [{ "size": "Vừa", "price": "6.000 VNĐ" }],
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
     {
       "id": 5,
@@ -141,7 +145,8 @@
         { "size": "Lớn", "price": "10.000 VNĐ" },
         { "size": "Vừa", "price": "6.000 VNĐ" },
         { "size": "Nhỏ", "price": "0 VNĐ" }
-      ]
+      ],
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
     {
       "id": 6,
@@ -161,7 +166,8 @@
         { "size": "Lớn", "price": "10.000 VNĐ" },
         { "size": "Vừa", "price": "6.000 VNĐ" },
         { "size": "Nhỏ", "price": "0 VNĐ" }
-      ]
+      ],
+      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     }
   ],
   "shopping-cart": [
@@ -173,7 +179,8 @@
         "topping": ["Shot Espresso", "Sốt Caramel"],
         "price": "29.000 VNĐ",
         "category": "Traditional Coffee",
-        "size-list": [{ "size": "Nhỏ", "price": "0 VNĐ" }]
+        "size-list": [{ "size": "Nhỏ", "price": "0 VNĐ" }],
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
       },
       "quantity": 1,
       "user": {
