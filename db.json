@@ -1,0 +1,223 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "email": "abc@gmail.com",
+      "password": "123456",
+      "firstname": "John",
+      "lastname": "Smith",
+      "address-list": [
+        {
+          "address": "1 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh",
+          "default": true
+        },
+        {
+          "address": "16 Võ Văn Kiệt, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh",
+          "default": false
+        }
+      ]
+    }
+  ],
+  "menu-category": [
+    {
+      "id": 1,
+      "name": "All Menu"
+    },
+    {
+      "id": 2,
+      "name": "Traditional Coffee"
+    },
+    {
+      "id": 3,
+      "name": "Western Coffee"
+    },
+    {
+      "id": 4,
+      "name": "Tea Creation"
+    },
+    {
+      "id": 5,
+      "name": "Fresh & Juice"
+    },
+    {
+      "id": 6,
+      "name": "Creation"
+    },
+    {
+      "id": 7,
+      "name": "Bakery"
+    },
+    {
+      "id": 8,
+      "name": "Snacks Food"
+    }
+  ],
+  "menu-list": [
+    {
+      "id": 1,
+      "name": "Bạc Sỉu Đá",
+      "img": "/images/Favorite/bac-xiu.webp",
+      "description": [
+        "Shot Espresso",
+        "Sốt Caramel",
+        "Kem phô mai Macchiato",
+        "Trân châu trắng"
+      ],
+      "price": "29.000 VNĐ",
+      "category": "Traditional Coffee",
+      "size-list": [
+        { "size": "Lớn", "price": "10.000 VNĐ" },
+        { "size": "Vừa", "price": "6.000 VNĐ" },
+        { "size": "Nhỏ", "price": "0 VNĐ" }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Cafe Đen Đá",
+      "img": "/images/Favorite/ca-phe-den-da.webp",
+      "description": [
+        "Shot Espresso",
+        "Sốt Caramel",
+        "Kem phô mai Macchiato",
+        "Trân châu trắng"
+      ],
+      "price": "29.000 VNĐ",
+      "category": "Traditional Coffee",
+      "size-list": [
+        { "size": "Lớn", "price": "10.000 VNĐ" },
+        { "size": "Vừa", "price": "6.000 VNĐ" },
+        { "size": "Nhỏ", "price": "0 VNĐ" }
+      ]
+    },
+
+    {
+      "id": 3,
+      "name": "Espresso Nóng",
+      "img": "/images/Favorite/Espresso.webp",
+      "description": [
+        "Shot Espresso",
+        "Sốt Caramel",
+        "Kem phô mai Macchiato",
+        "Trân châu trắng"
+      ],
+      "price": "39.000 VNĐ",
+      "category": "Western Coffee",
+      "size-list": [
+        { "size": "Lớn", "price": "10.000 VNĐ" },
+        { "size": "Vừa", "price": "6.000 VNĐ" }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Espresso Đá",
+      "img": "/images/Favorite/Espresso-da.webp",
+      "description": [
+        "Shot Espresso",
+        "Sốt Caramel",
+        "Kem phô mai Macchiato",
+        "Trân châu trắng"
+      ],
+      "price": "45.000 VNĐ",
+      "category": "Western Coffee",
+      "size-list": [{ "size": "Vừa", "price": "6.000 VNĐ" }]
+    },
+    {
+      "id": 5,
+      "name": "Trà Đào Cam Sả",
+      "img": "/images/Favorite/tra-dao-cam-xa.webp",
+      "description": [
+        "Đào miếng",
+        "Trái nhãn",
+        "Kem phô mai Macchiato",
+        "Trân châu trắng",
+        "Hạt sen",
+        "Nha đam"
+      ],
+      "price": "45.000 VNĐ",
+      "promotionPrice": "31.500 VNĐ",
+      "category": "Tea Creation",
+      "promotion": 23,
+      "size-list": [
+        { "size": "Lớn", "price": "10.000 VNĐ" },
+        { "size": "Vừa", "price": "6.000 VNĐ" },
+        { "size": "Nhỏ", "price": "0 VNĐ" }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Trà Nhãn",
+      "img": "/images/Favorite/tra-nhan.webp",
+      "description": [
+        "Trái nhãn",
+        "Kem phô mai Macchiato",
+        "Trân châu trắng",
+        "Đào miếng",
+        "Hạt sen",
+        "Nha đam"
+      ],
+      "price": "45.000 VNĐ",
+      "category": "Tea Creation",
+      "size-list": [
+        { "size": "Lớn", "price": "10.000 VNĐ" },
+        { "size": "Vừa", "price": "6.000 VNĐ" },
+        { "size": "Nhỏ", "price": "0 VNĐ" }
+      ]
+    }
+  ],
+  "shopping-cart": [
+    {
+      "cart_id": 1,
+      "product": {
+        "name": "Bạc Sỉu Đá",
+        "img": "/images/Favorite/bac-xiu.webp",
+        "description": ["Shot Espresso", "Sốt Caramel"],
+        "price": "29.000 VNĐ",
+        "category": "Traditional Coffee",
+        "size-list": [{ "size": "Nhỏ", "price": "0 VNĐ" }]
+      },
+      "quantity": 1,
+      "user": {
+        "email": "abc@gmail.com",
+        "password": "123456",
+        "firstname": "John",
+        "lastname": "Smith",
+        "address-list": [
+          {
+            "address": "1 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh",
+            "default": true
+          },
+          {
+            "address": "16 Võ Văn Kiệt, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh",
+            "default": false
+          }
+        ]
+      }
+    }
+  ],
+  "faq": [
+    {
+      "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
+      "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
+    },
+    {
+      "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
+      "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
+    },
+    {
+      "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
+      "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
+    },
+    {
+      "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
+      "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
+    },
+    {
+      "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
+      "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
+    },
+    {
+      "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
+      "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
+    }
+  ]
+}
