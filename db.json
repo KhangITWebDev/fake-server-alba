@@ -169,7 +169,7 @@
   ],
   "shopping-cart": [
     {
-      "cart_id": 1,
+      "id": 1,
       "product": {
         "name": "Bạc Sỉu Đá",
         "img": "/images/Favorite/bac-xiu.webp",
@@ -200,26 +200,32 @@
   ],
   "faq": [
     {
+      "id": 1,
       "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
       "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
     },
     {
+      "id": 2,
       "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
       "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
     },
     {
+      "id": 3,
       "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
       "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
     },
     {
+      "id": 4,
       "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
       "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
     },
     {
+      "id": 5,
       "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
       "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
     },
     {
+      "id": 6,
       "question": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Suscipit eum natus ut. Exercitationem, possimus. Quia facilis veniam labore fugiat nobis",
       "answer": "<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Suscipit, ratione voluptas? Molestias nobis aliquid architecto dolores, quam, itaque consectetur corrupti omnis iste, in libero placeat repudiandae? Minima rem laborum porro possimus animi quaerat aut facilis, cum laboriosam. Esse, fuga quas.</p>"
     }
