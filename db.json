@@ -57,7 +57,7 @@
       "id": 1,
       "name": "Bạc Sỉu Đá",
       "img": "/images/Favorite/bac-xiu.webp",
-      "description": [
+      "topping": [
         "Shot Espresso",
         "Sốt Caramel",
         "Kem phô mai Macchiato",
@@ -75,7 +75,7 @@
       "id": 2,
       "name": "Cafe Đen Đá",
       "img": "/images/Favorite/ca-phe-den-da.webp",
-      "description": [
+      "topping": [
         "Shot Espresso",
         "Sốt Caramel",
         "Kem phô mai Macchiato",
@@ -94,7 +94,7 @@
       "id": 3,
       "name": "Espresso Nóng",
       "img": "/images/Favorite/Espresso.webp",
-      "description": [
+      "topping": [
         "Shot Espresso",
         "Sốt Caramel",
         "Kem phô mai Macchiato",
@@ -111,7 +111,7 @@
       "id": 4,
       "name": "Espresso Đá",
       "img": "/images/Favorite/Espresso-da.webp",
-      "description": [
+      "topping": [
         "Shot Espresso",
         "Sốt Caramel",
         "Kem phô mai Macchiato",
@@ -125,7 +125,7 @@
       "id": 5,
       "name": "Trà Đào Cam Sả",
       "img": "/images/Favorite/tra-dao-cam-xa.webp",
-      "description": [
+      "topping": [
         "Đào miếng",
         "Trái nhãn",
         "Kem phô mai Macchiato",
@@ -147,7 +147,7 @@
       "id": 6,
       "name": "Trà Nhãn",
       "img": "/images/Favorite/tra-nhan.webp",
-      "description": [
+      "topping": [
         "Trái nhãn",
         "Kem phô mai Macchiato",
         "Trân châu trắng",
@@ -170,7 +170,7 @@
       "product": {
         "name": "Bạc Sỉu Đá",
         "img": "/images/Favorite/bac-xiu.webp",
-        "description": ["Shot Espresso", "Sốt Caramel"],
+        "topping": ["Shot Espresso", "Sốt Caramel"],
         "price": "29.000 VNĐ",
         "category": "Traditional Coffee",
         "size-list": [{ "size": "Nhỏ", "price": "0 VNĐ" }]
