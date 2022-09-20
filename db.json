@@ -171,6 +171,7 @@
     {
       "id": 1,
       "product": {
+        "id": 1,
         "name": "Bạc Sỉu Đá",
         "img": "/images/Favorite/bac-xiu.webp",
         "topping": ["Shot Espresso", "Sốt Caramel"],
@@ -179,7 +180,7 @@
         "size_list": [{ "size": "Nhỏ", "price": "0 VNĐ" }],
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
       },
-      "quantity": 1,
+      "quantity": 2,
       "user": {
         "email": "abc@gmail.com",
         "password": "123456",
