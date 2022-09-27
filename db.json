@@ -63,12 +63,12 @@
         "Kem phô mai Macchiato",
         "Trân châu trắng"
       ],
-      "price": "29.000 VNĐ",
+      "price": 29000,
       "category": "Traditional Coffee",
       "size_list": [
-        { "size": "Lớn", "price": "10.000 VNĐ" },
-        { "size": "Vừa", "price": "6.000 VNĐ" },
-        { "size": "Nhỏ", "price": "0 VNĐ" }
+        { "size": "Lớn", "price": 10000 },
+        { "size": "Vừa", "price": 6000 },
+        { "size": "Nhỏ", "price": 0 }
       ],
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
@@ -82,12 +82,12 @@
         "Kem phô mai Macchiato",
         "Trân châu trắng"
       ],
-      "price": "29.000 VNĐ",
+      "price": 29000,
       "category": "Traditional Coffee",
       "size_list": [
-        { "size": "Lớn", "price": "10.000 VNĐ" },
-        { "size": "Vừa", "price": "6.000 VNĐ" },
-        { "size": "Nhỏ", "price": "0 VNĐ" }
+        { "size": "Lớn", "price": 10000 },
+        { "size": "Vừa", "price": 6000 },
+        { "size": "Nhỏ", "price": 0 }
       ],
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
@@ -101,11 +101,11 @@
         "Kem phô mai Macchiato",
         "Trân châu trắng"
       ],
-      "price": "39.000 VNĐ",
+      "price": 39000,
       "category": "Western Coffee",
       "size_list": [
-        { "size": "Lớn", "price": "10.000 VNĐ" },
-        { "size": "Vừa", "price": "6.000 VNĐ" }
+        { "size": "Lớn", "price": 10000 },
+        { "size": "Vừa", "price": 6000 }
       ],
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
@@ -119,9 +119,9 @@
         "Kem phô mai Macchiato",
         "Trân châu trắng"
       ],
-      "price": "45.000 VNĐ",
+      "price": 45000,
       "category": "Western Coffee",
-      "size_list": [{ "size": "Vừa", "price": "6.000 VNĐ" }],
+      "size_list": [{ "size": "Vừa", "price": 6000 }],
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
     {
@@ -136,12 +136,12 @@
         "Hạt sen",
         "Nha đam"
       ],
-      "price": "45.000 VNĐ",
+      "price": 45000,
       "category": "Tea Creation",
       "size_list": [
-        { "size": "Lớn", "price": "10.000 VNĐ" },
-        { "size": "Vừa", "price": "6.000 VNĐ" },
-        { "size": "Nhỏ", "price": "0 VNĐ" }
+        { "size": "Lớn", "price": 10000 },
+        { "size": "Vừa", "price": 6000 },
+        { "size": "Nhỏ", "price": 0 }
       ],
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     },
@@ -157,12 +157,12 @@
         "Hạt sen",
         "Nha đam"
       ],
-      "price": "45.000 VNĐ",
+      "price": 45000,
       "category": "Tea Creation",
       "size_list": [
-        { "size": "Lớn", "price": "10.000 VNĐ" },
-        { "size": "Vừa", "price": "6.000 VNĐ" },
-        { "size": "Nhỏ", "price": "0 VNĐ" }
+        { "size": "Lớn", "price": 10000 },
+        { "size": "Vừa", "price": 6000 },
+        { "size": "Nhỏ", "price": 0 }
       ],
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     }
@@ -175,9 +175,9 @@
         "name": "Bạc Sỉu Đá",
         "img": "/images/Favorite/bac-xiu.webp",
         "topping": ["Shot Espresso", "Sốt Caramel"],
-        "price": "29.000 VNĐ",
+        "price": 29.0,
         "category": "Traditional Coffee",
-        "size_list": [{ "size": "Nhỏ", "price": "0 VNĐ" }],
+        "size_list": [{ "size": "Nhỏ", "price": 0 }],
         "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
       },
       "quantity": 2,
