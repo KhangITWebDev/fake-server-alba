@@ -167,38 +167,7 @@
       "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
     }
   ],
-  "shopping-cart": [
-    {
-      "id": 1,
-      "product": {
-        "id": 1,
-        "name": "Bạc Sỉu Đá",
-        "img": "/images/Favorite/bac-xiu.webp",
-        "topping": ["Shot Espresso", "Sốt Caramel"],
-        "price": 29.0,
-        "category": "Traditional Coffee",
-        "size_list": [{ "size": "Nhỏ", "price": 0 }],
-        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
-      },
-      "quantity": 2,
-      "user": {
-        "email": "abc@gmail.com",
-        "password": "123456",
-        "firstname": "John",
-        "lastname": "Smith",
-        "address-list": [
-          {
-            "address": "1 Nam Kỳ Khởi Nghĩa, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh",
-            "default": true
-          },
-          {
-            "address": "16 Võ Văn Kiệt, Phường Nguyễn Thái Bình, Quận 1, Thành Phố Hồ Chí Minh",
-            "default": false
-          }
-        ]
-      }
-    }
-  ],
+  "shopping-cart": [],
   "faq": [
     {
       "id": 1,
