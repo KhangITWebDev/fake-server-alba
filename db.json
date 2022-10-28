@@ -21,150 +21,209 @@
   "menu-category": [
     {
       "id": 1,
-      "name": "All Menu"
-    },
-    {
-      "id": 2,
       "name": "Traditional Coffee"
     },
     {
-      "id": 3,
+      "id": 2,
       "name": "Western Coffee"
     },
     {
-      "id": 4,
+      "id": 3,
       "name": "Tea Creation"
     },
     {
-      "id": 5,
+      "id": 4,
       "name": "Fresh & Juice"
     },
     {
-      "id": 6,
+      "id": 5,
       "name": "Creation"
     },
     {
-      "id": 7,
+      "id": 6,
       "name": "Bakery"
     },
     {
-      "id": 8,
+      "id": 7,
       "name": "Snacks Food"
+    }
+  ],
+  "topping": [
+    {
+      "id": 1,
+      "name": "Hạt chia"
+    },
+    {
+      "id": 2,
+      "name": "Sương sáo"
+    },
+    {
+      "id": 3,
+      "name": "Trân châu trắng"
+    },
+    {
+      "id": 4,
+      "name": "Vãi"
+    },
+    {
+      "id": 5,
+      "name": "Đào miếng"
     }
   ],
   "menu-list": [
     {
       "id": 1,
-      "name": "Bạc Sỉu Đá",
-      "img": "/images/Favorite/bac-xiu.webp",
-      "topping": [
-        "Shot Espresso",
-        "Sốt Caramel",
-        "Kem phô mai Macchiato",
-        "Trân châu trắng"
-      ],
-      "price": 29000,
-      "category": "Traditional Coffee",
-      "size_list": [
-        { "size": "Lớn", "price": 10000 },
-        { "size": "Vừa", "price": 6000 },
-        { "size": "Nhỏ", "price": 0 }
-      ],
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
+      "name": "Cà phê đá",
+      "image": "./image/den-da.jpg",
+      "price": { "regular": 38, "special": 48 },
+      "category": "Traditional Coffee"
     },
     {
       "id": 2,
-      "name": "Cafe Đen Đá",
-      "img": "/images/Favorite/ca-phe-den-da.webp",
-      "topping": [
-        "Shot Espresso",
-        "Sốt Caramel",
-        "Kem phô mai Macchiato",
-        "Trân châu trắng"
-      ],
-      "price": 29000,
-      "category": "Traditional Coffee",
-      "size_list": [
-        { "size": "Lớn", "price": 10000 },
-        { "size": "Vừa", "price": 6000 },
-        { "size": "Nhỏ", "price": 0 }
-      ],
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
+      "name": "Cà sữa đá",
+      "image": "./image/sua-da.jpg",
+      "price": { "regular": 48, "special": 58 },
+      "category": "Traditional Coffee"
     },
     {
       "id": 3,
-      "name": "Espresso Nóng",
-      "img": "/images/Favorite/Espresso.webp",
-      "topping": [
-        "Shot Espresso",
-        "Sốt Caramel",
-        "Kem phô mai Macchiato",
-        "Trân châu trắng"
-      ],
-      "price": 39000,
-      "category": "Western Coffee",
-      "size_list": [
-        { "size": "Lớn", "price": 10000 },
-        { "size": "Vừa", "price": 6000 }
-      ],
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
+      "name": "Bạc xỉu đá",
+      "image": "./image/bac-xi.jpg",
+      "price": { "regular": 48, "special": 58 },
+      "category": "Traditional Coffee"
     },
     {
       "id": 4,
-      "name": "Espresso Đá",
-      "img": "/images/Favorite/Espresso-da.webp",
-      "topping": [
-        "Shot Espresso",
-        "Sốt Caramel",
-        "Kem phô mai Macchiato",
-        "Trân châu trắng"
-      ],
-      "price": 45000,
-      "category": "Western Coffee",
-      "size_list": [{ "size": "Vừa", "price": 6000 }],
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
+      "name": "Trà xanh hạt dẻ",
+      "image": "./image/tra-xanh-hat-de.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Tea Creation"
     },
     {
       "id": 5,
-      "name": "Trà Đào Cam Sả",
-      "img": "/images/Favorite/tra-dao-cam-xa.webp",
-      "topping": [
-        "Đào miếng",
-        "Trái nhãn",
-        "Kem phô mai Macchiato",
-        "Trân châu trắng",
-        "Hạt sen",
-        "Nha đam"
-      ],
-      "price": 45000,
-      "category": "Tea Creation",
-      "size_list": [
-        { "size": "Lớn", "price": 10000 },
-        { "size": "Vừa", "price": 6000 },
-        { "size": "Nhỏ", "price": 0 }
-      ],
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
+      "name": "Mè đen hạt dẻ",
+      "image": "./image/sua-me-den2.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Creation"
     },
     {
       "id": 6,
-      "name": "Trà Nhãn",
-      "img": "/images/Favorite/tra-nhan.webp",
-      "topping": [
-        "Trái nhãn",
-        "Kem phô mai Macchiato",
-        "Trân châu trắng",
-        "Đào miếng",
-        "Hạt sen",
-        "Nha đam"
-      ],
-      "price": 45000,
-      "category": "Tea Creation",
-      "size_list": [
-        { "size": "Lớn", "price": 10000 },
-        { "size": "Vừa", "price": 6000 },
-        { "size": "Nhỏ", "price": 0 }
-      ],
-      "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Cupiditate id, enim inventore nisi voluptates omnis?"
+      "name": "Hoa đậu biết hạt sen",
+      "image": "./image/dau-biec.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Creation"
+    },
+    {
+      "id": 7,
+      "name": "Trà sữa hạnh nhân",
+      "image": "./image/hanh-nhan.jpg",
+      "price": { "regular": 48, "special": 58 },
+      "category": "Tea Creation"
+    },
+    {
+      "id": 8,
+      "name": "Trà sữa trân châu",
+      "image": "./image/tra-sua-tran-chau.jpg",
+      "price": { "regular": 48, "special": 58 },
+      "category": "Tea Creation"
+    },
+    {
+      "id": 9,
+      "name": "Caramel đá xây",
+      "image": "./image/cafe-xay1.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Creation"
+    },
+    {
+      "id": 10,
+      "name": "Socala bạc hà đá xây",
+      "image": "./image/socola-da-xay.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Creation"
+    },
+    {
+      "id": 11,
+      "name": "Hồng trà đào",
+      "image": "./image/tra-dao.jpg",
+      "price": { "regular": 58, "special": 68 },
+      "category": "Tea Creation"
+    },
+    {
+      "id": 12,
+      "name": "Hồng trà phúc bồn tử",
+      "image": "./image/tra-sua-phuc-bon-tu.jpg",
+      "price": { "regular": 38, "special": 48 },
+      "category": "Tea Creation"
+    },
+    {
+      "id": 13,
+      "name": "Trà ô long kiwi",
+      "image": "./image/tra-kiwi.jpg",
+      "price": { "regular": 58, "special": 68 },
+      "category": "Tea Creation"
+    },
+    {
+      "id": 14,
+      "name": "Hồng trà vải",
+      "image": "./image/tra-vai-hat-chia.jpg",
+      "price": { "regular": 48, "special": 58 },
+      "category": "Tea Creation"
+    },
+    {
+      "id": 15,
+      "name": "Hồng trà dâu",
+      "image": "./image/tra-dau.jpg",
+      "price": { "regular": 48, "special": 58 },
+      "category": "Tea Creation"
+    },
+    {
+      "id": 16,
+      "name": "Espresso",
+      "image": "./image/espresso.jpg",
+      "price": { "regular": 38, "special": 48 },
+      "category": "Western Coffee"
+    },
+    {
+      "id": 17,
+      "name": "Americano đá",
+      "image": "./image/americano-da.jpg",
+      "price": { "regular": 48, "special": 58 },
+      "category": "Western Coffee"
+    },
+    {
+      "id": 18,
+      "name": "Americano nóng",
+      "image": "./image/americano-nóng.jpg",
+      "price": { "regular": 48, "special": 58 },
+      "category": "Western Coffee"
+    },
+    {
+      "id": 19,
+      "name": "Cappuchino đá",
+      "image": "./image/capuchino-da.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Western Coffee"
+    },
+    {
+      "id": 20,
+      "name": "Latte đá",
+      "image": "./image/latte-da.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Western Coffee"
+    },
+    {
+      "id": 21,
+      "name": "Latte nóng",
+      "image": "./image/latte-nong.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Western Coffee"
+    },
+    {
+      "id": 22,
+      "name": "Latte flavors",
+      "image": "./image/latte-flavors.jpg",
+      "price": { "regular": 78, "special": 88 },
+      "category": "Western Coffee"
     }
   ],
   "shopping-cart": [],

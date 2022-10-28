@@ -6,5 +6,10 @@ const port = process.env.PORT || 3200;
 
 server.use(middlewares);
 server.use(router);
-
+server.use(jsonServer.bodyParser);
+server.post("*", (req, res) => {
+  if (req.method === "POST") {
+    res.status(200).jsonp();
+  }
+});
 server.listen(port);
