@@ -193,33 +193,40 @@
     {
       "id": 18,
       "name": "Americano nóng",
-      "image": "./image/americano-nóng.jpg",
+      "image": "./image/americano-nong.jpg",
       "price": { "regular": 48, "special": 58 },
       "category": "Western Coffee"
     },
     {
       "id": 19,
       "name": "Cappuchino đá",
-      "image": "./image/capuchino-da.jpg",
+      "image": "./image/cappuchino-da.jpg",
       "price": { "regular": 68, "special": 78 },
       "category": "Western Coffee"
     },
     {
-      "id": 20,
-      "name": "Latte đá",
-      "image": "./image/latte-da.jpg",
+      "id": 19,
+      "name": "Cappuchino nóng",
+      "image": "./image/cappuchino-nong.jpg",
       "price": { "regular": 68, "special": 78 },
       "category": "Western Coffee"
     },
     {
       "id": 21,
-      "name": "Latte nóng",
-      "image": "./image/latte-nong.jpg",
+      "name": "Latte đá",
+      "image": "./image/late-da.jpg",
       "price": { "regular": 68, "special": 78 },
       "category": "Western Coffee"
     },
     {
       "id": 22,
+      "name": "Latte nóng",
+      "image": "./image/late-nong.jpg",
+      "price": { "regular": 68, "special": 78 },
+      "category": "Western Coffee"
+    },
+    {
+      "id": 23,
       "name": "Latte flavors",
       "image": "./image/latte-flavors.jpg",
       "price": { "regular": 78, "special": 88 },
