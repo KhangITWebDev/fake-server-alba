@@ -88,7 +88,7 @@
     {
       "id": 3,
       "name": "Bạc xỉu đá",
-      "image": "./image/bac-xi.jpg",
+      "image": "./image/bac-xiu.jpg",
       "price": { "regular": 48, "special": 58 },
       "category": "Traditional Coffee"
     },
