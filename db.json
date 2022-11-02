@@ -21,31 +21,35 @@
   "menu-category": [
     {
       "id": 1,
-      "name": "Traditional Coffee"
+      "name": "Cà phê việt"
     },
     {
       "id": 2,
-      "name": "Western Coffee"
+      "name": "Sữa hạt dẽ"
     },
     {
       "id": 3,
-      "name": "Tea Creation"
+      "name": "Trà sữa"
     },
     {
       "id": 4,
-      "name": "Fresh & Juice"
+      "name": "Đá xây"
     },
     {
       "id": 5,
-      "name": "Creation"
+      "name": "Trà trái cây"
     },
     {
       "id": 6,
-      "name": "Bakery"
+      "name": "Cà phê tây"
     },
     {
       "id": 7,
-      "name": "Snacks Food"
+      "name": "Bánh mì"
+    },
+    {
+      "id": 8,
+      "name": "Đồ ăn vặt"
     }
   ],
   "topping": [
@@ -74,163 +78,254 @@
     {
       "id": 1,
       "name": "Cà phê đá",
-      "image": "./image/den-da.jpg",
+      "image": "/image/drinks/den-da.png",
       "price": { "regular": 38, "special": 48 },
-      "category": "Traditional Coffee"
+      "categoryId": 1
     },
     {
       "id": 2,
       "name": "Cà sữa đá",
-      "image": "./image/sua-da.jpg",
+      "image": "/image/drinks/sua-da.png",
       "price": { "regular": 48, "special": 58 },
-      "category": "Traditional Coffee"
+      "categoryId": 1
     },
     {
       "id": 3,
       "name": "Bạc xỉu đá",
-      "image": "./image/bac-xiu.jpg",
+      "image": "/image/drinks/bac-xiu.png",
       "price": { "regular": 48, "special": 58 },
-      "category": "Traditional Coffee"
+      "categoryId": 1
     },
     {
       "id": 4,
       "name": "Trà xanh hạt dẻ",
-      "image": "./image/tra-xanh-hat-de.jpg",
+      "image": "/image/drinks/tra-xanh-hat-de.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Tea Creation"
+      "categoryId": 2
     },
     {
       "id": 5,
       "name": "Mè đen hạt dẻ",
-      "image": "./image/sua-me-den2.jpg",
+      "image": "/image/drinks/sua-me-den2.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Creation"
+      "categoryId": 2
     },
     {
       "id": 6,
       "name": "Hoa đậu biết hạt sen",
-      "image": "./image/dau-biec.jpg",
+      "image": "/image/drinks/dau-biec.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Creation"
+      "categorId": 2
     },
     {
       "id": 7,
       "name": "Trà sữa hạnh nhân",
-      "image": "./image/hanh-nhan.jpg",
+      "image": "/image/drinks/hanh-nhan.png",
       "price": { "regular": 48, "special": 58 },
-      "category": "Tea Creation"
+      "categoryId": 3
     },
     {
       "id": 8,
       "name": "Trà sữa trân châu",
-      "image": "./image/tra-sua-tran-chau.jpg",
+      "image": "/image/drinks/tra-sua-tran-chau.png",
       "price": { "regular": 48, "special": 58 },
-      "category": "Tea Creation"
+      "categoryId": 3
     },
     {
       "id": 9,
       "name": "Caramel đá xây",
-      "image": "./image/cafe-xay1.jpg",
+      "image": "/image/drinks/cafe-xay1.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Creation"
+      "categoryId": 4
     },
     {
       "id": 10,
       "name": "Socala bạc hà đá xây",
-      "image": "./image/socola-da-xay.jpg",
+      "image": "/image/drinks/socola-da-xay.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Creation"
+      "categoryId": 4
     },
     {
       "id": 11,
       "name": "Hồng trà đào",
-      "image": "./image/tra-dao.jpg",
+      "image": "/image/drinks/tra-dao.png",
       "price": { "regular": 58, "special": 68 },
-      "category": "Tea Creation"
+      "categoryId": 5
     },
     {
       "id": 12,
       "name": "Hồng trà phúc bồn tử",
-      "image": "./image/tra-sua-phuc-bon-tu.jpg",
+      "image": "/image/drinks/tra-sua-phuc-bon-tu.png",
       "price": { "regular": 38, "special": 48 },
-      "category": "Tea Creation"
+      "categoryId": 5
     },
     {
       "id": 13,
       "name": "Trà ô long kiwi",
-      "image": "./image/tra-kiwi.jpg",
+      "image": "/image/drinks/tra-kiwi.png",
       "price": { "regular": 58, "special": 68 },
-      "category": "Tea Creation"
+      "categoryId": 5
     },
     {
       "id": 14,
       "name": "Hồng trà vải",
-      "image": "./image/tra-vai-hat-chia.jpg",
+      "image": "/image/drinks/tra-vai-hat-chia.png",
       "price": { "regular": 48, "special": 58 },
-      "category": "Tea Creation"
+      "categoryId": 5
     },
     {
       "id": 15,
       "name": "Hồng trà dâu",
-      "image": "./image/tra-dau.jpg",
+      "image": "/image/drinks/tra-dau.png",
       "price": { "regular": 48, "special": 58 },
-      "category": "Tea Creation"
+      "categoryId": 5
     },
     {
       "id": 16,
       "name": "Espresso",
-      "image": "./image/espresso.jpg",
+      "image": "/image/drinks/espresso.png",
       "price": { "regular": 38, "special": 48 },
-      "category": "Western Coffee"
+      "categoryId": 6
     },
     {
       "id": 17,
       "name": "Americano đá",
-      "image": "./image/americano-da.jpg",
+      "image": "/image/drinks/americano-da.png",
       "price": { "regular": 48, "special": 58 },
-      "category": "Western Coffee"
+      "categoryId": 6
     },
     {
       "id": 18,
       "name": "Americano nóng",
-      "image": "./image/americano-nong.jpg",
+      "image": "/image/drinks/americano-nong.png",
       "price": { "regular": 48, "special": 58 },
-      "category": "Western Coffee"
+      "categoryId": 6
     },
     {
       "id": 19,
       "name": "Cappuchino đá",
-      "image": "./image/cappuchino-da.jpg",
+      "image": "/image/drinks/cappuchino-da.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Western Coffee"
+      "categoryId": 6
     },
     {
       "id": 20,
       "name": "Cappuchino nóng",
-      "image": "./image/cappuchino-nong.jpg",
+      "image": "/image/drinks/cappuchino-nong.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Western Coffee"
+      "categoryId": 6
     },
     {
       "id": 21,
       "name": "Latte đá",
-      "image": "./image/late-da.jpg",
+      "image": "/image/drinks/late-da.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Western Coffee"
+      "categoryId": 6
     },
     {
       "id": 22,
       "name": "Latte nóng",
-      "image": "./image/late-nong.jpg",
+      "image": "/image/drinks/late-nong.png",
       "price": { "regular": 68, "special": 78 },
-      "category": "Western Coffee"
+      "categoryId": 6
     },
     {
       "id": 23,
       "name": "Latte flavors",
-      "image": "./image/latte-flavors.jpg",
+      "image": "/image/drinks/latte-flavors.png",
       "price": { "regular": 78, "special": 88 },
-      "category": "Western Coffee"
+      "categoryId": 6
+    },
+    {
+      "id": 24,
+      "name": "Bánh mì",
+      "image": "/image/bakery/banh-mi.png",
+      "price": { "regular": 20, "special": 35 },
+      "categoryId": 7
+    },
+    {
+      "id": 25,
+      "name": "Bánh choco trà xanh",
+      "image": "/image/bakery/green-tea.png",
+      "price": { "regular": 30, "special": 50 },
+      "categoryId": 7
+    },
+    {
+      "id": 26,
+      "name": "Trè cúc bạch chanh dây",
+      "image": "/image/bakery/panna-cotta.png",
+      "price": { "regular": 30, "special": 50 },
+      "categoryId": 7
+    },
+    {
+      "id": 27,
+      "name": "Tiramisu",
+      "image": "/image/bakery/tiramisu.png",
+      "price": { "regular": 30, "special": 50 },
+      "categoryId": 7
+    },
+    {
+      "id": 28,
+      "name": "Bánh sừng bò bơ cacao",
+      "image": "/image/bakery/bo-cacao.png",
+      "price": { "regular": 22, "special": 35 },
+      "categoryId": 7
+    },
+    {
+      "id": 29,
+      "name": "Bánh sừng bò bơ nguyên chất",
+      "image": "/image/bakery/end.png",
+      "price": { "regular": 20, "special": 35 },
+      "categoryId": 7
+    },
+    {
+      "id": 30,
+      "name": "Nho khô",
+      "image": "/image/snack/nho-kho.png",
+      "price": { "regular": 30, "special": 120 },
+      "categoryId": 8
+    },
+    {
+      "id": 31,
+      "name": "Trái cây sấy dẻo",
+      "image": "/image/snack/trai-cay-say-deo.png",
+      "price": { "regular": 30, "special": 120 },
+      "categoryId": 8
+    },
+    {
+      "id": 32,
+      "name": "Trái cây sấy giòn",
+      "image": "/image/snack/trai-cay-say-gion.png",
+      "price": { "regular": 30, "special": 120 },
+      "categoryId": 8
+    },
+    {
+      "id": 33,
+      "name": "Xoài sấy",
+      "image": "/image/snack/xoai-say.png",
+      "price": { "regular": 30, "special": 120 },
+      "categoryId": 8
+    },
+    {
+      "id": 34,
+      "name": "Thơm sấy",
+      "image": "/image/snack/thom-say.png",
+      "price": { "regular": 30, "special": 120 },
+      "categoryId": 8
+    },
+    {
+      "id": 35,
+      "name": "Khô gà",
+      "image": "/image/snack/kho-ga.png",
+      "price": { "regular": 35, "special": 160 },
+      "categoryId": 8
+    },
+    {
+      "id": 36,
+      "name": "Khô bò",
+      "image": "/image/snack/kho-bo.png",
+      "price": { "regular": 40, "special": 180 },
+      "categoryId": 8
     }
   ],
   "shopping-cart": [],
